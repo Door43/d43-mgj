@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mgj:home|Door43 (mgj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mgj|d43-mgj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mgj/archive/master.zip|d43-mgj.zip]]
+
+**Recent Changes**
+{{changes>ns = mgj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mgj|Ethnologue data]]
+
